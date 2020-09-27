@@ -5,6 +5,15 @@
 
 Write in C - Import in Python. Project for educational development purpose only.
 
+# Requirements
+
+Dependencies            | Version   
+:--:                    | :--:
+python                  | 3.7
+python3-virtualenv      | 16.6.2-1
+python3-devel           | 3.7.9-1
+gcc                     | 9.3.1
+
 # Project Stucture 
 
 ```
