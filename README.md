@@ -41,6 +41,6 @@ python3 setup.py install
 source venv/bin/activate
 python3 run.py
 
->>> I am file write by fputs function write in C and import Python!
+>>> I am file created by fputs function, write in C and import Python!
 
 ```
