@@ -1,7 +1,7 @@
 # extending-python-with-c
 
 - __Date__: 27/09/2020
-- __Author__: @augustoliks | <carlos.santos110@fatec.sp.gov.br>
+- __Author__: [@augustoliks](https://github.com/augustoliks) | <carlos.santos110@fatec.sp.gov.br>
 
 Write in C - Import in Python. Project for educational development purpose only.
 
