@@ -5,7 +5,7 @@ import fputs    # Interface Python - C
 FILENAME = "out-test-file.txt"
 
 fputs.fputs(
-    "I am file write by fputs function write in C and import Python!", 
+    "I am file created by fputs function, write in C and import Python!", 
     FILENAME
 )
 
